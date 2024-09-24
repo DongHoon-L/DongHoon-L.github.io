@@ -18,9 +18,9 @@ StonyBrook, The State University of New York(SUNY), 2021 Spring ~ now
 
 
 ### [1.4. Skills]
-:Skill:        | :Experiences: | :Careers: | :Note
--------------|-------------|---------|-----------------------------------
-:Python:     |   :6 months:  |  :-:  | :In university
+Skill        | Experiences | Careers | Note
+:-------------:|:-------------:|:---------:|:-----------------------------------
+Python     |   6 months  |  -  | In university
 
 
 ### [1.5. Experiences]
