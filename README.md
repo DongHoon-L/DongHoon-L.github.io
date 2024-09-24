@@ -6,10 +6,10 @@ Name: DongHoon Lee
 
   - Date of Birth: September 22, 2002
   - Email: ShapDaily@gmail.com
-  - Github: 
+  - Github: <https://github.com/DongHoon-L>
 
 ### [1.2. Education]
-StonyBrook, The State University of New York(SUNY), 2021 Spring ~ now
+The State University of New York(SUNY), 2021 Spring ~ now
 
   - Major: Tech & Society Management
   - GPA: 3. / 4.00
@@ -20,7 +20,8 @@ StonyBrook, The State University of New York(SUNY), 2021 Spring ~ now
 ### [1.4. Skills]
 Skill        | Experiences | Careers | Note
 :-------------:|:-------------:|:---------:|:-----------------------------------
-Python     |   6 months  |  -  | In university
+Python     |   6 months  |  -  | 
+C | 3 months | - |
 
 
 ### [1.5. Experiences]
